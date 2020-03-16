@@ -1,0 +1,16 @@
+nav[role="main"] {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+    padding: 0.5rem 1rem;
+
+}
+
+nav[role="main"] a {
+    margin-right: 1rem;
+}
+
+nav[role="main"] a:last-child {
+    margin-right: 0;
+}
