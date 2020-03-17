@@ -2,7 +2,7 @@
 
 A micro web app that demonstrates how to create your own Router component and setup multi-page feel.
 
-This is the result of the tutorial [Setup an easy ReactJS Router Component for SPA](http://junerockwell.com/setup-ReactJS-Router-SPA-multipage)
+This is the result of the tutorial [Setup an easy ReactJS Router Component for SPA](http://junerockwell.com/setup-an-easy-reactjs-router-component-for-spa/)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
